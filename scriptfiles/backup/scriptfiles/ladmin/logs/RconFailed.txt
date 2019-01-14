@@ -1,0 +1,50 @@
+[13.6.2016 21:43:48] [Pura Joda] GustavoFuentes [id: 1] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[1.7.2016 20:29:8] [Pura Joda] GustavoFuentes [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[6.7.2016 21:42:54] [Pura Joda] [uC]MaikOL [id: 0] falló al intentar logearse como rcon.
+[15.7.2016 13:5:54] [Pura Joda] oXygeN [id: 10] falló al intentar logearse como rcon.
+[15.7.2016 13:22:44] [Pura Joda] Zkl_. [id: 2] falló al intentar logearse como rcon.
+[17.7.2016 16:41:7] [Pura Joda] NicolasFuentes [id: 24] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[21.7.2016 22:18:16] [Pura Joda] Max_Evans [id: 2] falló al intentar logearse como rcon.
+[26.7.2016 0:59:28] [Pura Joda] Kiim_Muller [id: 2] falló al intentar logearse como rcon.
+[26.7.2016 1:9:51] [Pura Joda] Staff [id: 11] falló al intentar logearse como rcon.
+[30.7.2016 14:18:11] [Pura Joda] GustavoFuentes [id: 7] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[31.7.2016 12:34:49] [Pura Joda] GustavoFuentes [id: 19] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[31.7.2016 16:40:55] [Pura Joda] [MzK]MarKs [id: 1] falló al intentar logearse como rcon.
+[1.8.2016 3:31:52] [Pura Joda] Daniela [id: 0] falló al intentar logearse como rcon.
+[2.8.2016 7:49:35] [Pura Joda] (RIVALS)DARIEL [id: 0] falló al intentar logearse como rcon.
+[4.8.2016 12:53:7] [Pura Joda] garmendia [id: 14] falló al intentar logearse como rcon.
+[8.8.2016 18:36:11] [Pura Joda] ElNieri [id: 17] falló al intentar logearse como rcon.
+[15.8.2016 16:27:0] [Pura Joda] ComePALOS [id: 5] falló al intentar logearse como rcon.
+[17.8.2016 11:47:30] [Pura Joda] Franco_Monaco [id: 11] falló al intentar logearse como rcon.
+[17.8.2016 16:35:52] [Pura Joda] Jord [id: 21] falló al intentar logearse como rcon.
+[18.8.2016 2:34:23] [Pura Joda] ._.Lolis [id: 0] falló al intentar logearse como rcon.
+[23.8.2016 14:34:35] [Pura Joda] Founyx [id: 6] falló al intentar logearse como rcon.
+[30.8.2016 21:45:40] [Pura Joda] Aguirre_Nicolas [id: 20] falló al intentar logearse como rcon.
+[5.9.2016 15:4:19] [Pura Joda] RFR77 [id: 18] falló al intentar logearse como rcon.
+[24.9.2016 19:43:39] [Pura Joda] [TL]F4K1R [id: 0] falló al intentar logearse como rcon.
+[3.12.2016 16:54:27] [Pura Joda] GustavoFuentes [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[3.12.2016 17:0:42] [Pura Joda] GustavoFuentes [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[20.12.2016 16:10:42] [Pura Joda] GustavoFuentes [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[20.12.2016 19:0:50] [Pura Joda] GustavoFuentes [id: 1] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[25.12.2016 20:20:50] [Pura Joda] [Ek]HolacheJr [id: 1] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[26.12.2016 17:30:27] [Pura Joda] NicolasFuentes [id: 3] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[29.12.2016 15:37:24] [Pura Joda] [Ek]HolacheJr [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[3.1.2017 14:59:21] [Pura Joda] [gC]Swag_Scobby [id: 4] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[3.1.2017 20:38:28] [Pura Joda] [Ek]Holache [id: 15] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[4.1.2017 15:20:28] [Pura Joda] [Ek]Holache [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[7.1.2017 14:14:20] [Pura Joda] David_ [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[7.1.2017 18:28:21] [Pura Joda] SMHS [id: 10] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[9.1.2017 4:15:56] [Pura Joda] Johny_Padre [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[10.1.2017 14:36:12] [Pura Joda] kevin_gerrero [id: 21] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[13.1.2017 16:27:39] [Pura Joda] Predro_Gaston [id: 2] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[24.1.2017 16:30:35] [Pura Joda] [Test]Scritper[s] [id: 19] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[25.1.2017 8:9:34] [Pura Joda] [EK]Wilo [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[26.1.2017 7:9:22] [Pura Joda] jpGuaripolo [id: 1] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[26.1.2017 18:39:20] [Pura Joda] NicolasFuentes [id: 9] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[26.1.2017 18:41:59] [Pura Joda] NicolasFuentes [id: 11] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[2.2.2017 0:29:50] [Pura Joda] XxbaxXx [id: 5] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[11.2.2017 6:29:30] [Pura Joda] Daichepik_Daichepik [id: 0] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[16.2.2017 20:51:30] [Pura Joda] Nahuel_Martino [id: 7] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[18.2.2017 18:46:37] [Pura Joda] [GxU]broders [id: 3] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[20.2.2017 15:2:53] [Pura Joda] [CxDxD]ricaldo [id: 2] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
+[23.2.2017 2:20:6] [Pura Joda] vasy73 [id: 4] Ha sido banneado por el administrador Pura Joda Freeroam [Razon: Rcon Login Failed]
